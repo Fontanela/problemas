@@ -1,0 +1,16 @@
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\bin\Debug\INSS.UnitTest.dll
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\bin\Debug\INSS.UnitTest.pdb
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\bin\Debug\INSS.dll
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\bin\Debug\INSS.pdb
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\obj\Debug\INSS.UnitTests.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\obj\Debug\INSS.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\obj\Debug\INSS.UnitTests.csproj.CopyComplete
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\obj\Debug\INSS.UnitTest.dll
+C:\Users\gabri\Documents\Problemas c#\Problemas\INSS.UnitTest\obj\Debug\INSS.UnitTest.pdb
